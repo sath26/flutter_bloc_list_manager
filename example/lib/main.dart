@@ -104,7 +104,7 @@ class JournalEntryBloc extends Bloc<_journalEntryEvent, JournalEntryState> {
           author: 'Author 1',
           category: 'Category 1',
           content: 'Content 1',
-          description: 'Description 1',
+          description: 'himshikhar',
           id: '1',
           title: 'Title 1',
           isPublished: true,
